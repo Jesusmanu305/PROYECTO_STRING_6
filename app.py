@@ -3,7 +3,7 @@ import plotly.express as px
 import streamlit as st
 
 car_data = pd.read_csv('vehicles_us.csv')  # leer los datos
-st.header('Bienvenido a mi primer website')  # Insertar titulo
+st.header('Proyecto Spring 6')  # Insertar titulo
 build_histogram = st.checkbox('Construir histograma')  # crear un botón
 
 if build_histogram:  # al hacer clic en el botón

@@ -19,3 +19,5 @@ Despliegue en la Nube: La aplicación será desplegada en un servicio en la nube
 Interfaz de Usuario Intuitiva: Utilizando Streamlit, la aplicación tendrá una interfaz amigable y fácil de usar, facilitando la interacción con los datos.
 
 En general este proyecto enseña vagamente la creación de sitios web utilizando diferentes recursos como VS, GitHub, y Render al mismo tiempo. Ayuda mucho a la coordinación de ideas y apoya mucho para futuros proyectos.
+
+Link de la aplicación web: https://proyecto-string-6.onrender.com 
